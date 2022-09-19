@@ -23,6 +23,14 @@ strong {
 a {
   text-decoration: none;
 }
+footer {
+  text-align: center;
+  padding-bottom: 30px;
+
+  font-size: 16px;
+  text-decoration: none;
+}
+
 .container {
   margin: 100px auto;
   max-width: 484px;
